@@ -34,4 +34,8 @@ public class Result {
         System.out.println("Testing");
     }
 
+    void testing(){
+        System.out.println("Test 1")
+    }
+
 }
