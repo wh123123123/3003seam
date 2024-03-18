@@ -34,8 +34,8 @@ public class Result {
         System.out.println("Testing");
     }
 
-    void testing(){
-        System.out.println("Test 1")
+    void testing3(){
+        System.out.println("Test 3")
     }
 
 }
