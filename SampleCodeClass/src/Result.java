@@ -36,4 +36,9 @@ public class Result {
 
     int countAll() { return 0; }
 
+    void wh(){
+                System.out.println("Testing WH");
+
+    }
+
 }
